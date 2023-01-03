@@ -1,0 +1,2 @@
+,model,Test score (Accuracy),Train score (Accuracy),Number of trainable parameters,Number of layers,Regularization methods,Number of epochs,Loss function,Optimizer,Embedding
+0,ANN model,0.8653,0.9166,"873,513",6,Dropout,5,binary_crossentropy,adam,32
